@@ -1,0 +1,5 @@
+rootProject.name = 'HW_GR'
+include 'db'
+include 'api'
+include 'service'
+
